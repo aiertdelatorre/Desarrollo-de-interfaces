@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto layout, variables, and unit scale are not yet supported -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:app="https://schemas.android.com/apl/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android.layout_width="match_parent"
+    android.layout_height="match_parent"
+    >
+<RelativeLayout
+    android:id="@+id/vector_1"
+    android:layout_width="459.72dp"
+    android:layout_height="454.66dp"
+    android:layout_alignParentLeft="true"
+    app:layout_constraintLeft_toLeftOf= 'parent'
+    app:layout_constraintTop_toTopOf= 'parent'
+    android:layout_marginLeft="-67dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="-27dp"
+    android:background="@drawable/vector_1"
+    >
+
+    <View
+    android:id="@+id/rectangle_1"
+    android:layout_width="372.56dp"
+    android:layout_height="505.5dp"
+    android:layout_alignParentLeft="true"
+    android:layout_marginLeft="7.22dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="3.5dp"
+    android:background="@drawable/rectangle_1"
+    android:elevation="4dp"
+        />
+
+</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
