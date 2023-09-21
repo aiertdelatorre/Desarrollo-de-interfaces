@@ -1,0 +1,16 @@
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\bin\Debug\net6.0-windows\2.Ariketa_Interface.exe
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\bin\Debug\net6.0-windows\2.Ariketa_Interface.deps.json
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\bin\Debug\net6.0-windows\2.Ariketa_Interface.runtimeconfig.json
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\bin\Debug\net6.0-windows\2.Ariketa_Interface.dll
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\bin\Debug\net6.0-windows\2.Ariketa_Interface.pdb
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\_2.Ariketa_Interface.Form1.resources
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.csproj.GenerateResource.cache
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.AssemblyInfoInputs.cache
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.AssemblyInfo.cs
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.csproj.CoreCompileInputs.cache
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.dll
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\refint\2.Ariketa_Interface.dll
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.pdb
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\2.Ariketa_Interface.genruntimeconfig.cache
+C:\DAM 2\Desarrollo interface\Desarrollo-de-interfaces\C#\2.Ariketa_Interface\2.Ariketa_Interface\obj\Debug\net6.0-windows\ref\2.Ariketa_Interface.dll

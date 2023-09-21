@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DAM 2\\Desarrollo interface\\C#\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
+      "projectUniqueName": "C:\\DAM 2\\Desarrollo interface\\Desarrollo-de-interfaces\\C#\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
       "projectName": "Esaldiak",
-      "projectPath": "C:\\DAM 2\\Desarrollo interface\\C#\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
+      "projectPath": "C:\\DAM 2\\Desarrollo interface\\Desarrollo-de-interfaces\\C#\\Esaldiak\\Esaldiak\\Esaldiak.csproj",
       "packagesPath": "C:\\Users\\delatorre.aiert\\.nuget\\packages\\",
-      "outputPath": "C:\\DAM 2\\Desarrollo interface\\C#\\Esaldiak\\Esaldiak\\obj\\",
+      "outputPath": "C:\\DAM 2\\Desarrollo interface\\Desarrollo-de-interfaces\\C#\\Esaldiak\\Esaldiak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\delatorre.aiert\\AppData\\Roaming\\NuGet\\NuGet.Config",
