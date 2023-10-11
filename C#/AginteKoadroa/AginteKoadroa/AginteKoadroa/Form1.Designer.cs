@@ -37,7 +37,7 @@
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.userControl11 = new GrafikoaDll.UserControl1();
+            this.userControl1 = new GrafikoaDll.UserControl1();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -140,14 +140,15 @@
             this.label6.TabIndex = 0;
             this.label6.Text = "Eguneko salmentak guztira";
             // 
-            // userControl11
+            // userControl1
             // 
-            this.userControl11.AutoSize = true;
-            this.userControl11.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.userControl11.Location = new System.Drawing.Point(-163, 96);
-            this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(490, 348);
-            this.userControl11.TabIndex = 4;
+            this.userControl1.AutoSize = true;
+            this.userControl1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.userControl1.Location = new System.Drawing.Point(-163, 96);
+            this.userControl1.Name = "userControl1";
+            this.userControl1.Size = new System.Drawing.Size(490, 348);
+            this.userControl1.TabIndex = 4;
+            this.userControl1.Load += new System.EventHandler(this.userControl1_Load);
             // 
             // Form1
             // 
@@ -158,7 +159,7 @@
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.userControl11);
+            this.Controls.Add(this.userControl1);
             this.Name = "Form1";
             this.Text = "Aginte Koadroa";
             this.groupBox1.ResumeLayout(false);
@@ -183,7 +184,7 @@
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
-        private GrafikoaDll.UserControl1 userControl11;
+        private GrafikoaDll.UserControl1 userControl1;
     }
 }
 

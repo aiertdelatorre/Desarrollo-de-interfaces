@@ -38,6 +38,7 @@
             // 
             // chart1
             // 
+            this.chart1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.chart1.BackColor = System.Drawing.Color.DimGray;
             chartArea1.Name = "ChartArea1";
             this.chart1.ChartAreas.Add(chartArea1);
@@ -45,7 +46,7 @@
             legend1.Name = "Legend1";
             legend1.Title = "Saltzaileak";
             this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(187, 45);
+            this.chart1.Location = new System.Drawing.Point(200, 45);
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.Legend = "Legend1";
@@ -63,6 +64,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.chart1);
+            this.Cursor = System.Windows.Forms.Cursors.No;
             this.Name = "UserControl1";
             this.Size = new System.Drawing.Size(800, 450);
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();

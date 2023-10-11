@@ -21,5 +21,10 @@ namespace AginteKoadroa
         {
 
         }
+
+        private void userControl1_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
