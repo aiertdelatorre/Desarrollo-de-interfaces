@@ -1,0 +1,12 @@
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.exe.config
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.exe
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\AginteKoadroa.pdb
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\bin\Debug\GrafikoaDll.dll
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.AssemblyReference.cache
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.Form1.resources
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.Properties.Resources.resources
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.GenerateResource.cache
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.CoreCompileInputs.cache
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.csproj.CopyComplete
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.exe
+C:\Users\delatorre.aiert\Desktop\DAM2\Interfazeen garapena\C#\AginteKoadroa\AginteKoadroa\AginteKoadroa\obj\Debug\AginteKoadroa.pdb
